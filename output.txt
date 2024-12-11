@@ -1,4 +1,0 @@
-Enter your message: hello how are you?
-Enter shift value: 2
-Type 'encrypt' to encrypt or 'decrypt' to decrypt: encrypt
-Encrypted Message: jgnnq jqy ctg aqw?
