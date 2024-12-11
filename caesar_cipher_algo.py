@@ -76,3 +76,4 @@ result_label = ttk.Label(root, text="Result: ")
 result_label.grid(row=4, column=0, columnspan=2, padx=10, pady=10)
 
 # Run the application
+#root.mainloop()
